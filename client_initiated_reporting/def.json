@@ -1,0 +1,9 @@
+{
+    "classes": {
+        "client_initiated_reporting_enabled": [ "any" ]
+    },
+    "vars": {
+        "control_hub_exclude_hosts": [ "0.0.0.0/0" ],
+        "control_server_call_collect_interval": "1"
+    }
+}
